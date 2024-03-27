@@ -1,5 +1,5 @@
 --- 
-title: "Development Indicators by Continent - Main Branch"
+title: "Development Indicators by Continent - Not Main Branch"
 author: "Gapminder Analytics Group"
 format: dashboard
 --- 
